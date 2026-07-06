@@ -1,16 +1,55 @@
-## Hi there 👋
+Readme · MD<h1 align="center">Hi there 👋, I'm Pulkit</h1>
+<h3 align="center">Backend Developer | Building towards SDE & Fintech Systems</h3>
 
-<!--
-**pulkitvars-hney/pulkitvars-hney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Third-year undergraduate, focused on backend development
+🔭 Currently building a Photo & Caption Sharing Platform and a URL Shortener
+🌱 Currently learning: SQL, Redis, System Design, and Python (FastAPI) for ML/AI integration
+💼 Long-term interest: Fintech and AI/ML-driven systems
+🏆 Competitive programmer in C++ (DSA, contests, LeetCode)
+⚡ Fun fact: When I'm not debugging auth flows, I'm trekking — Chopta-Tungnath-Chandrashila and Kanatal-Kodia Jungle so far
+
+
+
+Tech Stack
+
+Backend
+Show Image
+Show Image
+Show Image
+Show Image
+
+Languages
+Show Image
+Show Image
+Show Image
+
+Auth & Security
+Show Image
+Show Image
+
+Tools & Platforms
+Show Image
+Show Image
+Show Image
+
+
+Featured Projects
+
+Photo & Caption Sharing Platform
+A platform where users can upload a picture with a caption, and other users can view the uploaded content.
+
+URL Shortener
+A service that takes a long URL and generates a short, shareable link.
+
+
+GitHub Stats
+
+Show Image
+
+Show Image
+
+
+Connect
