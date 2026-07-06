@@ -56,6 +56,3 @@ A service that takes a long URL and generates a short, shareable link.
  
 ---
  
-### Connect
- 
-📫 Reach me via email or LinkedIn (add your links here)
