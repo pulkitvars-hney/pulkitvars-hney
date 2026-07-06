@@ -50,9 +50,9 @@ A service that takes a long URL and generates a short, shareable link.
  
 ### GitHub Stats
  
-![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulkitvars-hney&show_icons=true&theme=radical)
  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitvars-hney&layout=compact&theme=radical)
  
 ---
  
