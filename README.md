@@ -48,11 +48,21 @@ A service that takes a long URL and generates a short, shareable link.
  
 ---
  
-### GitHub Stats
- 
-![Pulkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=pulkitvars-hney&show_icons=true&theme=radical)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pulkitvars-hney&layout=compact&theme=radical)
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pulkitvars-hney&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pulkitvars-hney&layout=compact&theme=tokyonight&hide_border=true)
+
+![streak](https://streak-stats.demolab.com?user=pulkitvars-hney&theme=tokyonight&hide_border=true)
+
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pulkitvars-hney&theme=gruvbox&hide_border=true)
+
+![](https://komarev.com/ghpvc/?username=pulkitvars-hney&color=orange&style=for-the-badge)
+
+![](https://github-profile-trophy.vercel.app/?username=pulkitvars-hney&theme=gruvbox&no-frame=true&margin-w=10)
  
 ---
  
