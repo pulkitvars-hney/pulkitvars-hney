@@ -6,12 +6,12 @@
  
 ### About Me
  
-- 🎓 Third-year undergraduate, focused on backend development
-- 🔭 Currently building a **Photo & Caption Sharing Platform** and a **URL Shortener**
-- 🌱 Currently learning: SQL, Redis, System Design, and Python (FastAPI) for ML/AI integration
-- 💼 Long-term interest: Fintech and AI/ML-driven systems
-- 🏆 Competitive programmer in C++ (DSA, contests, LeetCode)
-- ⚡ Fun fact: When I'm not debugging auth flows, I'm trekking — Chopta-Tungnath-Chandrashila and Kanatal-Kodia Jungle so far
+- 🎓 Third-year Computer Science undergraduate with a strong focus on backend development and scalable system design.
+- 🔭 Currently building a Photo & Caption Sharing Platform and a URL Shortener, exploring real-world architecture and performance optimization.
+- 🌱 Learning SQL, Redis, and system design fundamentals, while working with Python (FastAPI) for AI/ML-oriented integrations.
+- 💼 Interested in designing fintech systems and data-driven applications that solve practical problems.
+- 🏆 Competitive programmer in C++, with solid grounding in DSA and regular participation in coding contests.
+- ⚡ Fun fact: When I'm not debugging auth flows, I'm trekking 
 ---
  
 ### Tech Stack
