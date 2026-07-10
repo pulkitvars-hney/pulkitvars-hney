@@ -1,68 +1,90 @@
-<h1 align="center">Hi there 👋, I'm Pulkit</h1>
- 
-<h3 align="center">Backend Developer | Building towards SDE & Fintech Systems</h3>
- 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Pulkit;Backend+Developer;Node.js+%7C+Express+%7C+MongoDB" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/pulkit-varshney-91376634b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/pulkitvars-hney">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</div>
+
+<br>
+
 ---
- 
-### About Me
- 
+
+## About Me
+
 - 🎓 Third-year Computer Science undergraduate with a strong focus on backend development and scalable system design.
-- 🔭 Currently building a Photo & Caption Sharing Platform and a URL Shortener, exploring real-world architecture and performance optimization.
-- 🌱 Learning SQL, Redis, and system design fundamentals, while working with Python (FastAPI) for AI/ML-oriented integrations.
-- 💼 Interested in designing fintech systems and data-driven applications that solve practical problems.
-- 🏆 Competitive programmer in C++, with solid grounding in DSA and regular participation in coding contests.
-- ⚡ Fun fact: When I'm not debugging auth flows, I'm trekking 
+- 🚀 Currently building a URL Shortener from scratch using Node.js, Express, and MongoDB as a backend skill-consolidation project.
+- 🧠 Solid grounding in DSA and competitive programming in C++, with regular participation in coding contests on LeetCode.
+- 🔐 Comfortable across the auth stack — JWT-based authentication, role-based authorization, and REST API design.
+- 💰 Interested in fintech systems and integrating AI/ML into backend architectures.
+- 🏔️ Fun fact: when I'm not debugging auth flows, I'm trekking — recent treks in Uttarakhand.
+
 ---
- 
-### Tech Stack
- 
+
+## Tech Stack
+
 **Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
- 
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</p>
+
 **Languages**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- 
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
 **Auth & Security**
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth](https://img.shields.io/badge/OAuth-4285F4?style=for-the-badge&logo=auth0&logoColor=white)
- 
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
+</p>
+
 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
- 
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
 ---
- 
-### Featured Projects
- 
-**Photo & Caption Sharing Platform**
-A platform where users can upload a picture with a caption, and other users can view the uploaded content.
- 
-**URL Shortener**
-A service that takes a long URL and generates a short, shareable link.
- 
+
+## Featured Projects
+
+**URL Shortener** — A Node.js/Express/MongoDB service that takes a long URL and generates a short, shareable link. Built from scratch as a backend fundamentals exercise.
+
+**Spotify Clone Backend** — Express-based backend with Mongoose schema design, JWT/bcrypt authentication, and role-based authorization.
+
+**AssignSync** — A GitHub repository automation tool using the GitHub REST/Git Data API and GitHub Actions to sync files between repos.
+
 ---
- 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=pulkitvars-hney&show_icons=true&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=pulkitvars-hney&show_icons=true&theme=dracula" alt="GitHub Stats">
+</p>
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pulkitvars-hney&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pulkitvars-hney&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+</p>
 
-![streak](https://streak-stats.demolab.com?user=pulkitvars-hney&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pulkitvars-hney&theme=gruvbox&hide_border=true" alt="Activity Graph">
+</p>
 
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pulkitvars-hney&theme=gruvbox&hide_border=true)
-
-![](https://komarev.com/ghpvc/?username=pulkitvars-hney&color=orange&style=for-the-badge)
-
-![](https://github-profile-trophy.vercel.app/?username=pulkitvars-hney&theme=gruvbox&no-frame=true&margin-w=10)
- 
 ---
- 
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pulkitvars-hney/pulkitvars-hney/output/github-contribution-grid-snake.svg" alt="Contribution Snake animation">
+</p>
